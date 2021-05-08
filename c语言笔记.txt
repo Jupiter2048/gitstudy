@@ -1,0 +1,7 @@
+第一章
+1.数据类型、表达式
+（1）C语言的基本上数据类型有4类：char\int\float\double；
+（2）short和long是针对整型数据的限定符，short int、long int可以简写为short、long；
+（3）另外还有signed和unsigned的限定符；
+（4）int是计算机中的自然长度；short≤int；int≤long；
+
