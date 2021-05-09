@@ -3,4 +3,5 @@
 1.这是github练习；
 2.这也是git和github的复习
 3.增加branch的测试
-4.creat new branch
+4.创建一个新的分支是很简单&easy的
+
