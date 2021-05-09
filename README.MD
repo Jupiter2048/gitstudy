@@ -5,5 +5,11 @@
 3.增加branch的测试
 4.创建一个新的分支是很简单&easy的
 5.使用--no-ff的方式合并分支
+接下来我们要写一个程序；
+#include <stdio.h>
+int main(void)
+{
+	return 0;
 
-测试colone
+}
+now we want to add a new featurebranch
